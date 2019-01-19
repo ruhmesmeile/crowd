@@ -1,7 +1,7 @@
 FROM blacklabelops/java:openjdk8
 MAINTAINER Jonas Ulrich <jonas.ulrich@ruhmesmeile.com>
 
-ARG CROWD_VERSION=3.2.3
+ARG CROWD_VERSION=3.3.3
 # permissions
 ARG CONTAINER_UID=1000
 ARG CONTAINER_GID=1000
