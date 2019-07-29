@@ -8,7 +8,7 @@
 
 | Version | Tags  | Dockerfile |
 |---------|-------|------------|
-|  3.3.3  | 3.3.3, latest | [Dockerfile](https://github.com/ruhmesmeile/crowd/blob/master/Dockerfile) |
+|  3.5.0  | 3.5.0, latest | [Dockerfile](https://github.com/ruhmesmeile/crowd/blob/master/Dockerfile) |
 
 > Older tags remain but are not supported/rebuild.
 
